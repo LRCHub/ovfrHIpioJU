@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "神曲 (Replica-edit)",
+  "base_artist": "R Sound Design",
+  "createdAt": "2026-02-24T16:29:13.767721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "神曲",
+      "artist": "Della",
+      "has_synced": false,
+      "path": "select/01_神曲_Della.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "神曲",
+      "artist": "R Sound Design",
+      "has_synced": true,
+      "path": "select/02_神曲_R_Sound_Design.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "神曲",
+      "artist": "おにゅうP feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/03_神曲_おにゅうP_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "神曲",
+      "artist": "onewP",
+      "has_synced": true,
+      "path": "select/04_神曲_onewP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "神曲 - Replica-edit",
+      "artist": "R Sound Design",
+      "has_synced": true,
+      "path": "select/05_神曲_-_Replica-edit_R_Sound_Design.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "神曲",
+      "artist": "丁噹",
+      "has_synced": false,
+      "path": "select/06_神曲_丁噹.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "OUTRO. 신곡(神曲) (Divina Commedia)",
+      "artist": "G-DRAGON",
+      "has_synced": true,
+      "path": "select/07_OUTRO._신곡(神曲)_(Divina_Commedia)_G-DRAGON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "OUTRO. 신곡 (神曲) (Divina Commedia)",
+      "artist": "G‐Dragon",
+      "has_synced": true,
+      "path": "select/08_OUTRO._신곡_(神曲)_(Divina_Commedia)_G‐Dragon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "OUTRO. 신곡(神曲) (Divina Commedia)",
+      "artist": "G-DRAGON",
+      "has_synced": true,
+      "path": "select/09_OUTRO._신곡(神曲)_(Divina_Commedia)_G-DRAGON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "OUTRO. 신곡 (神曲) (Divina Commedia)",
+      "artist": "OfficialGDRAGON",
+      "has_synced": true,
+      "path": "select/10_OUTRO._신곡_(神曲)_(Divina_Commedia)_OfficialGDRAGON.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "OUTRO. 신곡 (神曲) (Divina Commedia)",
+      "artist": "G-DRAGON",
+      "has_synced": true,
+      "path": "select/11_OUTRO._신곡_(神曲)_(Divina_Commedia)_G-DRAGON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "神曲",
+      "artist": "R Sound Design",
+      "has_synced": false,
+      "path": "select/pl_01_神曲_R_Sound_Design.txt"
+    }
+  ]
+}
